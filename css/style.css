@@ -21,5 +21,11 @@
 /* Seguros */
 @import './seguros/seguros.css';
 
+/* Termos */
+@import './termos/termos.css';
+
+
+
+
 /* Footer */
 @import './global/footer.css';
