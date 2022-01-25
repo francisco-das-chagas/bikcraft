@@ -3,8 +3,6 @@
 @import './utilidades/tipografia.css';
 @import './utilidades/cores.css';
 
-
-
 /* Utilidades */
 @import './utilidades/componentes.css';
 
@@ -17,7 +15,7 @@
 /* Bicicletas */
 @import './bicicletas/bicicletas-lista.css';
 @import './bicicletas/bicicletas.css';
-
+@import './bicicleta/bicicleta.css';
 
 /* Seguros */
 @import './seguros/seguros.css';
@@ -26,9 +24,6 @@
 
 /* Termos */
 @import './termos/termos.css';
-
-
-
 
 /* Footer */
 @import './global/footer.css';
