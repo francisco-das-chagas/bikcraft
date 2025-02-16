@@ -10,3 +10,5 @@
 /* Utilidades */
 @import "./utilidades/componentes.css";
 
+/* Bicicletas */
+@import "./bicicletas/bicicletas-listas.css";
